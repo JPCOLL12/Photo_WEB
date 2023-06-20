@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Sweet Photography</title>
+    </head>
+    <body>
+
+        <h1>Sweet Photography</h1>
+        
+        <h2>Projects</h2>
+        <ul>
+            <li>Portarits</li>
+            <a href="link address"><img src="image destination"></a>
+            <li>"Racing Makes me Happy?"</li>
+            <a href="link address"><img src="image destination"></a>
+            <li>Still Life</li>
+            <a href="link address"><img src="image destination"></a>
+            <li>Tableau</li>
+            <a href="link address"><img src="image destination"></a>
+            <li>Aqueous Experiments</li>
+            <a href="link address"><img src="image destination"></a>
+        </ul>
+    </body>
+</html>
