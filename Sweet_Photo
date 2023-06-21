@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Sweet Photography</title>
+    </head>
+    <body>
+
+        <h1>Sweet Photography</h1>
+        
+        <h2>Projects</h2>
+        <ul>
+            <li>Portarits</li>
+            <a href="link address"><img src="Lightroom Exports/Portraits/Aletheia/Black&White.jpg"></a>
+            <li>"Racing Makes me Happy?"</li>
+            <a href="link address"><img src="Lightroom Exports/Self_Portraits/DSC03079.jpg"></a>
+            <li>Still Life</li>
+            <a href="link address"><img src="Lightroom Exports/Still_Life/DSC04099.jpg"></a>
+            <li>Tableau</li>
+            <a href="link address"><img src="EXport from lightromm"></a>
+            <li>Aqueous Experiments</li>
+            <a href="link address"><img src="Lightroom Exports/FISH/DSC04629.jpg"></a>
+            <li>Cars & Coffee</li>
+            <a href="link address"><img src="Lightroom Exports/Cars & Coffee/DSC02864.jpg"></a>
+        </ul>
+    </body>
+</html>
